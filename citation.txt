@@ -1,0 +1,9 @@
+@article{REPO-256,
+    author = "Zhuang, Weiming and Wen, Yonggang and Zhang, Shuai",
+    eprint = "2108.06493",
+    eprinttype = "arXiv",
+    journal = "CoRR",
+    title = "{Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification}",
+    url = "https://arxiv.org/abs/2108.06493",
+    year = "2021"
+}
